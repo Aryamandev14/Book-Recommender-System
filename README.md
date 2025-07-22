@@ -84,7 +84,12 @@ python main.py
 
 ## 📸 Screenshots
 
-> *Add images of `index.html` and `Recommender.html` outputs for better clarity.*
+<img width="1915" height="963" alt="image" src="https://github.com/user-attachments/assets/981b15a1-28d1-4850-a8d5-65e2464b9641" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/5f0fb54f-bf26-4c93-b410-06f418454b09" />
+<img width="1901" height="920" alt="image" src="https://github.com/user-attachments/assets/fdc0cba7-3e7f-4003-8872-1adf8e37563c" />
+
+
+
 
 ---
 
