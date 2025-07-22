@@ -78,7 +78,7 @@ cd book-recommender
 python main.py
 ```
 
-3. Open a browser and navigate to `http://127.0.0.1:5000/` to use the app.
+3. Open a browser and navigate to `http://127.0.0.1:5001/` to use the app.
 
 ---
 
@@ -98,7 +98,6 @@ python main.py
 * Allow user login & save personal recommendations.
 * Integrate content-based filtering for cold-start problem.
 * Add filter by genre, author, or publication year.
-* Host on cloud platform (e.g., Heroku, AWS, or Render).
 
 ---
 
