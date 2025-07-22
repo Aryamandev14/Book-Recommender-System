@@ -68,8 +68,8 @@ pip install flask pandas numpy scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/book-recommender.git
-cd book-recommender
+git clone (https://github.com/Aryamandev14/Book-Recommender-System.git)
+cd Book-Recommender-System
 ```
 
 2. Activate your virtual environment (if used) and run:
